@@ -1,0 +1,31 @@
+_repo: Venezuela_71020
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dalton, Leonard V. (Leonard Victor)
+    birthdate: 1887
+    deathdate: 1914
+    gutenberg_agent_id: '56042'
+    url: http://www.gutenberg.org/2009/agents/56042
+description: ''
+gutenberg_issued: '2023-06-22'
+identifiers:
+  gutenberg: '71020'
+  lccn: '12027857'
+language: en
+pgterms:marc904: https://archive.org/details/venezuela00daltrich
+pgterms:marc905: 20211027120921dalton
+pgterms:marc906: '1912'
+pgterms:marc907: gb
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bT. Fisher Unwin, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Venezuela'
+- !lcc 'F2301'
+- GITenberg
+title: Venezuela
+url: http://www.gutenberg.org/ebooks/71020
